@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickSaviorDev
 - 👀 I’m interested in Code, Games, Gym and Math
-- 🌱 I’m currently learning the fundamentals, starting from scrath
+- 🌱 I’m currently learning the python, in CS50's python introduction
 - 🕵️‍♂️ I’m looking to collaborate on the projects that I find interesting
 - 📫 How to reach me: nicolas.salvador.br@gmail.com
 - 😄 Pronouns: they/was (lol)
